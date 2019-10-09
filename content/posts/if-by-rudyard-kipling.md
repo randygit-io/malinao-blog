@@ -1,7 +1,11 @@
 ---
-title: "If by Kipling"
-date: 2019-10-08T01:15:29+08:00
-draft: true
+title: "If by Rudyard Kipling"
+author: ""
+type: ""
+date: 2019-10-09T23:38:03+08:00
+subtitle: ""
+image: ""
+tags: ["india", "poetry"]
 ---
 
 # IF BY RUDYARD KIPLING
@@ -42,5 +46,7 @@ If you can fill the unforgiving minute
     With sixty seconds’ worth of distance run,
 Yours is the Earth and everything that’s in it,
     And—which is more—you’ll be a Man, my son!
+
+
 
 
