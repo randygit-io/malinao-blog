@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pilipinuts</title>
-    <link>/</link>
-    <description>Recent content on Pilipinuts</description>
+    <title>pili on Pilipinuts</title>
+    <link>/tags/pili/</link>
+    <description>Recent content in pili on Pilipinuts</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Sophia Orduna)</managingEditor>
     <webMaster>youremail@domain.com (Sophia Orduna)</webMaster>
-    <lastBuildDate>Tue, 08 Oct 2019 08:53:10 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2019 08:29:30 +0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/pili/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Walden</title>
-      <link>/posts/walden/</link>
-      <pubDate>Tue, 08 Oct 2019 08:53:10 +0800</pubDate>
-      <author>youremail@domain.com (Sophia Orduna)</author>
-      <guid>/posts/walden/</guid>
-      <description>PHILIP WALLEN &amp;ldquo;FIRE IN THE BORGO&amp;rdquo; luke-warm mush, then cold milk poured over it chills and transforms the entire arrangement gradually tending towards an ineradicable (nonbiodegradable) plastic resembling &amp;ldquo;Bakelite,&amp;rdquo; shiny brown It shatters if you drop it hard
-Changed again! Turned 180 degrees in an Unexpected direction Bent Beethoven, Burnt Njal I have lived All these years until this moment Without understanding there&amp;rsquo;s absolutely nothing Which I can do well</description>
-    </item>
     
     <item>
       <title>ee cummings</title>

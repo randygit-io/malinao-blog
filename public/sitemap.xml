@@ -3,26 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://distracted-joliot-c89402.netlify.com/posts/ee-cummings/</loc>
+    <loc>/</loc>
+    <lastmod>2019-10-08T08:53:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/poetry/</loc>
+    <lastmod>2019-10-08T08:53:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2019-10-08T08:53:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-08T08:53:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/walden/</loc>
+    <lastmod>2019-10-08T08:53:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/ee-cummings/</loc>
     <lastmod>2019-10-08T08:29:30+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://distracted-joliot-c89402.netlify.com/</loc>
+    <loc>/tags/pili/</loc>
     <lastmod>2019-10-08T08:29:30+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://distracted-joliot-c89402.netlify.com/posts/</loc>
-    <lastmod>2019-10-08T08:29:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://distracted-joliot-c89402.netlify.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://distracted-joliot-c89402.netlify.com/tags/</loc>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>
